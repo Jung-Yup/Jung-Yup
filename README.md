@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <div align = "center">
 <center>
-  <h1>Front-end Stack</h1>
+  <h1>🌹Front-end Stack🌹</h1>
 <img src="https://img.shields.io/badge/HTML5-302683?style=for-the-badge&logo=HTML5&logoColor=">
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"></br>
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=Git&logoColor=white">
 
-  <h1>Cowork tools</h1>
+  <h1>Cowork tools💫</h1>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
    <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=white">
     <img src="https://img.shields.io/badge/Gather-004E81?style=for-the-badge&logo=gather&logoColor=white">
