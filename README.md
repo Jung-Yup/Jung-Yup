@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=A9F5BC&height=350&section=header&text=Hello i'm Jung Yyp&fontColor=04B45F&fontSize=70"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=A9F5BC&height=350&section=header&text=Hello i'm Jung Yup&fontColor=04B45F&fontSize=70"/>
 </p>
 
 <div align = "center">
